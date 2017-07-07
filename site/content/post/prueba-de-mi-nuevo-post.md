@@ -1,6 +1,6 @@
 ---
 title: prueba de mi nuevo post
-date: 2017-07-05T00:00:00+02:00
+date: 2017-07-04T22:00:00.000Z
 description: bueno una mini intro
 image: /img/bestiaMiedo.jpg
 ---
@@ -13,4 +13,7 @@ que sea chulo mole y eso
 nadie nos puede parar nadie puede 
 
 ##pues aqui un subtítulo 
+
+![imagen](/img/empezarblog.jpg)
+
 
