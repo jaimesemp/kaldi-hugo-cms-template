@@ -4,7 +4,7 @@ date: 2017-07-04T22:00:00.000Z
 description: bueno una mini intro
 image: /img/bestiaMiedo.jpg
 ---
-venga vamos a hacer un gran post
+rock and roll baby!!!
 
 que sea chulo mole y eso
 
